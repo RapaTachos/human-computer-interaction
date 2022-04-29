@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Sleeping</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-854.000000, -238.000000)" stroke="#6bade3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Sleeping" transform="translate(862.000000, 244.000000)" sketch:type="MSShapeGroup">
+                <path d="M0.428565629,0 L6.81138671,0 L0.428565629,7 L6.81138688,7" id="Path-1936"></path>
+                <path d="M11.4285656,5 L17.8113867,5 L11.4285656,12 L17.8113869,12" id="Path-1936"></path>
+                <path d="M4.80858938,16 L8.80858927,16 L4.80858938,21 L8.80858938,21" id="Path-1936"></path>
+                <path d="M18.1932452,13.5211941 C20.2027196,12.8677331 22.3476435,12.5145259 24.5750634,12.5145259 C35.9621708,12.5145259 45.1932452,21.7456003 45.1932452,33.1327077 C45.1932452,44.5198151 35.9621708,53.7508895 24.5750634,53.7508895 C22.3476435,53.7508895 20.2027196,53.3976822 18.1932452,52.7442213 C26.4566884,50.0570324 32.4296089,42.2923952 32.4296089,33.1327077 C32.4296089,23.9730202 26.4566884,16.208383 18.1932452,13.5211941 Z" id="Oval-839" transform="translate(31.693245, 33.132708) rotate(35.000000) translate(-31.693245, -33.132708) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
